@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">My Garage</string>
+    <string name="todo">TODO</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string-array name="make">
+        <item>Ducati</item>
+        <item>Honda</item>
+        <item>Triumph</item>
+        <item>Yamaha</item>
+    </string-array>
+
+    <string-array name="model">
+        <item>M965</item>
+        <item>M1100</item>
+        <item>Diavel 800</item>
+        <item>Multistrada 900</item>
+    </string-array>
+
+    <string-array name="year">
+        <item>2008</item>
+        <item>2009</item>
+        <item>2012</item>
+        <item>2005</item>
+    </string-array>
+
+</resources>

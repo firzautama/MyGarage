@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="146dp"
+    android:background="@android:color/darker_gray"
+    android:gravity="bottom"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark">
+
+    <ImageView
+        android:layout_width="89dp"
+        android:layout_height="74dp"
+        android:src="@drawable/logomaintenance" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="17dp"
+
+        android:text="My Garage App"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textColor="@android:color/background_dark"
+        android:textSize="14sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="firza@biz.nf"
+        android:textColor="@android:color/background_dark"
+        android:textSize="12sp"
+        android:textStyle="italic" />
+
+</LinearLayout>
